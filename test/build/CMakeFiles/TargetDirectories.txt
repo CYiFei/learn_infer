@@ -1,0 +1,3 @@
+/home/chengyifei/workspace/learn_infer/test/build/CMakeFiles/test_kuiper.dir
+/home/chengyifei/workspace/learn_infer/test/build/CMakeFiles/edit_cache.dir
+/home/chengyifei/workspace/learn_infer/test/build/CMakeFiles/rebuild_cache.dir
